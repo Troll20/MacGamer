@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "macgamer:blocks/shrekbrine2",
+    "particle": "macgamer:blocks/shrekbrine2"
+  }
+}

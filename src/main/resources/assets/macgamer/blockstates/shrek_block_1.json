@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "macgamer:block/shrek_block_1"
+    },
+    "facing=east": {
+      "model": "macgamer:block/shrek_block_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "macgamer:block/shrek_block_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "macgamer:block/shrek_block_1",
+      "y": 270
+    }
+  }
+}
