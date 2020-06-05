@@ -1,7 +1,12 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/cube",
   "textures": {
-    "all": "macgamer:blocks/shrekbrine2",
-    "particle": "macgamer:blocks/shrekbrine2"
+    "down": "macgamer:blocks/black",
+    "up": "macgamer:blocks/black",
+    "north": "macgamer:blocks/shrekbrine2",
+    "east": "macgamer:blocks/black",
+    "south": "macgamer:blocks/black",
+    "west": "macgamer:blocks/black",
+    "particle": "macgamer:blocks/black"
   }
 }
