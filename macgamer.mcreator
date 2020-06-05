@@ -9,12 +9,22 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "shrek_block_1"
+    },
+    {
+      "name": "Shrekdimension",
+      "type": "dimension",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shrekdimension"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.macgamer.shrekdimension": "Shrekdimension Portal Igniter",
       "block.macgamer.shrek_block_1": "Shrek Block 1"
     }
   },

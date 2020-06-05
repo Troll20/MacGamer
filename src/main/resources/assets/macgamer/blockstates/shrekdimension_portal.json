@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "macgamer:block/shrekdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "macgamer:block/shrekdimension_portal_ns"
+    }
+  }
+}
